@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AsawerJaved
-- 👀 I’m interested in programming
-- 🌱 I’m currently a student of computer science (CS)
+- 👋 Hi, I’m Asawer Javed
+- 👀 I’m interested in Programming
+- 🌱 I’m currently a student of Computer Science (CS)
 
 <!---
 AsawerJaved/AsawerJaved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
