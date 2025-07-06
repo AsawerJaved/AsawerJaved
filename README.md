@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Asawer Javed
-- 👀 I’m a Programmer
-- 🌱 I’m currently a student of Computer Science (BSCS) at University of Central Punjab 
-- 🙂 I am fond of thinking about new problems, designing algorithms, and implementing solutions as computer programs
-- 😇 Coding in C and C++ is my expertise
+- 🎓 Final-year BSCS student at University of Central Punjab
+- 🤖 Aspiring Machine Learning & AI Engineer
+- 💡 Passionate about building intelligent systems, solving real-world problems, and constantly learning new technologies
+- 🛠️ Skilled in Python, C, C++, with hands-on experience in Pandas, NumPy, Scikit-learn, and TensorFlow
+- 📊 Currently exploring projects in ML model deployment, NLP, and computer vision
+- 📈 Strong foundation in algorithms, data structures, and system design
+- 📚 Always open to collaboration, innovation, and exciting tech opportunities
