@@ -1,43 +1,41 @@
 # 👋 Hi, I’m Asawer Javed
 
 🎓 BS Computer Science Graduate (Gold Medalist) – University of Central Punjab
-💻 Python Backend Developer | FastAPI | React (Learning Full-Stack)
-🤖 Aspiring Machine Learning & AI Engineer
+💻 Python Backend Developer | FastAPI | AI & Automation
 
 ---
 
 ## 🚀 About Me
 
-I’m a Python developer with strong fundamentals in backend engineering and a growing focus on full-stack and AI-driven systems. I enjoy building scalable APIs, automating workflows, and solving real-world problems through clean and efficient code.
+I'm a Computer Science graduate and Gold Medalist from the University of Central Punjab, focused on Python backend development and building practical software solutions.
 
-Currently, I’m expanding my skill set into **JavaScript and React** to become a well-rounded full-stack developer, while continuing to explore **machine learning, NLP, and intelligent systems**.
+I have experience working with Python, FastAPI, REST APIs, databases, and AI/ML technologies. I enjoy solving real-world problems through clean, efficient code and automation.
+
+I'm currently strengthening my backend engineering skills and expanding my knowledge of modern software development practices.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**
-Python | JavaScript | C | C++ | SQL
+Python | JavaScript | SQL | C/C++
 
 **Backend:**
-FastAPI | REST APIs
-
-**Frontend:**
-React (Learning) | HTML | CSS
+FastAPI | REST APIs | Pydantic
 
 **Databases:**
 MongoDB | MySQL
 
 **Libraries & Tools:**
-Pandas | NumPy | Scikit-learn | TensorFlow | Git | GitHub | Postman
+Git | GitHub | Postman
 
 ---
 
 ## 📌 Current Focus
 
-* 🔧 Building full-stack projects using **React + FastAPI**
-* 🤖 Improving skills in **Machine Learning & NLP**
-* 🚀 Learning best practices for **scalable system design**
+* 🔧 Strengthening Python backend development with **FastAPI**
+* 🤖 Exploring **Machine Learning, NLP, and AI-powered applications**
+* 🚀 Learning best practices for **scalable and maintainable software**
 
 ---
 
@@ -45,7 +43,15 @@ Pandas | NumPy | Scikit-learn | TensorFlow | Git | GitHub | Postman
 
 * 🔹 **ReciteRight** – AI-powered Quran recitation feedback system (NLP + Speech Processing)
 * 🔹 **TaskFlow (In Progress)** – Full-stack task manager using React & FastAPI
-* 🔹 EventHub – Database system for event management
+* 🔹 **EventHub** – Database system for event management
+
+---
+
+## 💼 Experience
+
+**Python Backend Developer Intern – System Heuristics**
+
+* Worked on a real-world resort automation system using Python, FastAPI, MongoDB, WhatsApp integrations, third-party APIs, background jobs, and booking/payment workflows.
 
 ---
 
