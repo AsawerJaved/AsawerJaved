@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Asawer Javed
 
 🎓 BS Computer Science Graduate (Gold Medalist) – University of Central Punjab
+
 💻 Python Backend Developer | FastAPI | AI & Automation
 
 ---
@@ -33,17 +34,21 @@ Git | GitHub | Postman
 
 ## 📌 Current Focus
 
-* 🔧 Strengthening Python backend development with **FastAPI**
-* 🤖 Exploring **Machine Learning, NLP, and AI-powered applications**
-* 🚀 Learning best practices for **scalable and maintainable software**
+🔧 Strengthening Python backend development with **FastAPI**
+
+🤖 Exploring **Machine Learning, NLP, and AI-powered applications**
+
+🚀 Learning best practices for **scalable and maintainable software**
 
 ---
 
 ## 📂 Featured Projects
 
-* 🔹 **ReciteRight** – AI-powered Quran recitation feedback system (NLP + Speech Processing)
-* 🔹 **TaskFlow (In Progress)** – Full-stack task manager using React & FastAPI
-* 🔹 **EventHub** – Database system for event management
+🔹 **ReciteRight** – AI-powered Quran recitation feedback system (NLP + Speech Processing)
+
+🔹 **TaskFlow (In Progress)** – Full-stack task manager using React & FastAPI
+
+🔹 **EventHub** – Database system for event management
 
 ---
 
@@ -51,14 +56,15 @@ Git | GitHub | Postman
 
 **Python Backend Developer Intern – System Heuristics**
 
-* Worked on a real-world resort automation system using Python, FastAPI, MongoDB, WhatsApp integrations, third-party APIs, background jobs, and booking/payment workflows.
+Worked on a real-world resort automation system using Python, FastAPI, MongoDB, WhatsApp integrations, third-party APIs, background jobs, and booking/payment workflows.
 
 ---
 
 ## 📫 Let’s Connect
 
-* 💼 LinkedIn: [www.linkedin.com/in/asawer-javed/](http://www.linkedin.com/in/asawer-javed/)
-* 📧 Email: [asawerjaved@gmail.com](mailto:asawerjaved@gmail.com)
+💼 LinkedIn: [www.linkedin.com/in/asawer-javed/](http://www.linkedin.com/in/asawer-javed/)
+
+📧 Email: [asawerjaved@gmail.com](mailto:asawerjaved@gmail.com)
 
 ---
 
