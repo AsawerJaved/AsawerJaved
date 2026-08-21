@@ -2,7 +2,7 @@
 
 🎓 BS Computer Science Graduate (Gold Medalist) – University of Central Punjab
 
-💻 Python Backend Developer | FastAPI | AI & Automation
+💻 Python Backend Developer | FastAPI | PostgreSQL | AI & Automation
 
 ---
 
@@ -10,9 +10,9 @@
 
 I'm a Computer Science graduate and Gold Medalist from the University of Central Punjab, focused on Python backend development and building practical software solutions.
 
-I have experience working with Python, FastAPI, REST APIs, databases, and AI/ML technologies. I enjoy solving real-world problems through clean, efficient code and automation.
+I have hands-on experience with Python, FastAPI, REST APIs, PostgreSQL, SQLAlchemy, MongoDB, and AI/ML technologies. I enjoy solving real-world problems through clean, practical code and automation.
 
-I'm currently strengthening my backend engineering skills and expanding my knowledge of modern software development practices.
+I'm currently strengthening my backend engineering skills and building projects to improve my understanding of databases, APIs, and modern backend development practices.
 
 ---
 
@@ -22,19 +22,21 @@ I'm currently strengthening my backend engineering skills and expanding my knowl
 Python | JavaScript | SQL | C/C++
 
 **Backend:**
-FastAPI | REST APIs | Pydantic
+FastAPI | REST APIs | Pydantic | SQLAlchemy
 
 **Databases:**
-MongoDB | MySQL
+MongoDB | MySQL | PostgreSQL
 
 **Libraries & Tools:**
-Git | GitHub | Postman
+Git | GitHub | Postman | Docker
 
 ---
 
 ## 📌 Current Focus
 
-🔧 Strengthening Python backend development with **FastAPI**
+🔧 Strengthening Python backend development with **FastAPI and SQLAlchemy**
+
+🗄️ Working with **PostgreSQL and MongoDB** for backend applications
 
 🤖 Exploring **Machine Learning, NLP, and AI-powered applications**
 
